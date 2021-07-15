@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://shahanaibrahimosu.github.io/sitemap.xml

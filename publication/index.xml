@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Shahana Ibrahim</title>
+    <link>https://shahanaibrahimosu.github.io/publication/</link>
+      <atom:link href="https://shahanaibrahimosu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shahanaibrahimosu.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://shahanaibrahimosu.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Crowdsourcing via Annotator Co-occurrence Imputation and Provable Symmetric Nonnegative Matrix Factorization</title>
+      <link>https://shahanaibrahimosu.github.io/publication/crowdsourcing_icml/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/crowdsourcing_icml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fiber-Sampled Stochastic Mirror Descent For Tensor Decomposition with Beta-Divergence</title>
+      <link>https://shahanaibrahimosu.github.io/publication/fiber_sampled_icassp/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/fiber_sampled_icassp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Mixed Membership from Adjacency Graph via Systematic Edge Query: Identifiability and Algorithm</title>
+      <link>https://shahanaibrahimosu.github.io/publication/learning_mixed_icassp/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/learning_mixed_icassp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recovering Joint Probability of Discrete Random Variables from Pairwise Marginals</title>
+      <link>https://shahanaibrahimosu.github.io/publication/recover_jointpmf_tsp/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/recover_jointpmf_tsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic  Mirror  Descent  for  Low-Rank Tensor  Decomposition  Under  Non-Euclidean  Losses</title>
+      <link>https://shahanaibrahimosu.github.io/publication/example/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed Membership Graph Clustering via Systematic Edge Query</title>
+      <link>https://shahanaibrahimosu.github.io/publication/mixed_membership_tsp/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/mixed_membership_tsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recovering Joint PMF from Pairwise Marginals</title>
+      <link>https://shahanaibrahimosu.github.io/publication/recover_jointpmf_asilomar/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/recover_jointpmf_asilomar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Recoverability of Randomly Compressed Tensors with Low CP Rank</title>
+      <link>https://shahanaibrahimosu.github.io/publication/recover_spl/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/recover_spl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block-Randomized Stochastic Proximal Gradient for Low Rank Tensor Factorization</title>
+      <link>https://shahanaibrahimosu.github.io/publication/blockrandom_tsp/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/blockrandom_tsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowdsourcing via Pairwise Co-occurrences: Identifiability and Algorithms</title>
+      <link>https://shahanaibrahimosu.github.io/publication/crowdsourcing_neurips/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/crowdsourcing_neurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Phase Duration for SPAT messages</title>
+      <link>https://shahanaibrahimosu.github.io/publication/estim_phase/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/estim_phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Optimization for Coupled Tensor Decomposition with Applications in Statistical Learning</title>
+      <link>https://shahanaibrahimosu.github.io/publication/stochasticoptim/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://shahanaibrahimosu.github.io/publication/stochasticoptim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
